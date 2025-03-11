@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I'm Jayden a Computing Science student from Scotland, currently in my 2nd year of studying software development. I've been passionate about coding for as long as I can remember, but recently I’ve started taking it seriously as I work toward making it my full-time career. Excited to build, learn, and contribute to projects here on GitHub!
+Hi I'm Jayden a Computing Science student from Scotland, currently in my 2nd year of studying software development.
 
 
 ## 🌐 Socials:
