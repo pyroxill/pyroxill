@@ -12,8 +12,6 @@ Hi I'm Jayden a Computing Science student from Scotland, currently in my 2nd yea
 ![](https://nirzak-streak-stats.vercel.app/?user=pyroxill&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pyroxill&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pyroxill&icon=2&color=12)](https://visitcount.itsvg.in)
